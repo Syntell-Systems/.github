@@ -10,9 +10,9 @@ Syntell is a leading South African technology company that delivers practical, i
 
 Syntell focuses on end‑to‑end solutions that combine engineering, software, and operations:
 
-- **Road Safety** — technologies and services that enhance safer roads and communities. [3](https://securex.co.za/exhibitor/syntell/)  
-- **Traffic Management** — intelligent systems and controllers that improve traffic flow and urban mobility. [3](https://securex.co.za/exhibitor/syntell/)  
-- **Revenue Systems** — platforms and services that support effective administration and revenue collection. [3](https://securex.co.za/exhibitor/syntell/)
+- **Road Safety** — technologies and services that enhance safer roads and communities. 
+- **Traffic Management** — intelligent systems and controllers that improve traffic flow and urban mobility. 
+- **Revenue Systems** — platforms and services that support effective administration and revenue collection. 
 
 > Syntell provides **practical & innovative technology‑based services and systems** that are **client‑focused** and outcome‑driven. [1](https://www.syntell.co.za/)
 
